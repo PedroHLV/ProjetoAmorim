@@ -1,0 +1,3 @@
+install flask
+install pandas
+istall ajax
